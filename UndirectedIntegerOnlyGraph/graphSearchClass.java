@@ -1,4 +1,4 @@
-package UndirectedNonweightedIntegerOnlyGraph;
+package UndirectedIntegerOnlyGraph;
 import java.util.*;
 
 public class graphSearchClass {
