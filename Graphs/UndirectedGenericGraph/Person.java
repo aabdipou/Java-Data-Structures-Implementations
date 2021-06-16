@@ -1,4 +1,4 @@
-package UndirectedGenericGraph;
+package Graphs.UndirectedGenericGraph;
 
 public class Person {
     int age;

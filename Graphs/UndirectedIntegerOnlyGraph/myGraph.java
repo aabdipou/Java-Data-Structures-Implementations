@@ -1,4 +1,4 @@
-package UndirectedIntegerOnlyGraph;
+package Graphs.UndirectedIntegerOnlyGraph;
 import java.util.*;
 
 public class myGraph{

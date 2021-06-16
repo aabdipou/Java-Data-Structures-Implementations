@@ -1,4 +1,4 @@
-package UndirectedGenericGraph;
+package Graphs.UndirectedGenericGraph;
 import java.util.*;
 
 public class graphSearchClass<T> {
